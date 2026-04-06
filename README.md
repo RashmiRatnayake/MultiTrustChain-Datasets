@@ -2,6 +2,11 @@
 
 This repository contains the datasets used to evaluate the **MultiTrustChain** framework, a lifecycle-aware, multi-dimensional trust evaluation approach for blockchain data. The datasets span financial, IoT, and supply chain use cases, covering four trust dimensions: data, data source, blockchain, and external. They combine real-world datasets with extended BDT-based data, enriched with domain-specific features and attack scenarios.
 
+## 📦 Release
+
+**First release (MultiTrustChain Datasets v1.0 – Financial, IoT, and Supply Chain Use Cases):**  
+https://github.com/RashmiRatnayake/MultiTrustChain-Datasets/releases/tag/v1.0
+
 The datasets are organised by application domain, with three primary use cases:
 
 - Financial  
